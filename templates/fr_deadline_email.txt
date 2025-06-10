@@ -1,15 +1,22 @@
 Objet: Échange concernant votre projet – ISMAC Business School
 
-Cher{{ "e" if genre == "f" }} {{ prenom }} {{ nom }},
+Cher(e)){{ prenom }} {{ nom }},
 
 Je me permets de vous contacter dans le cadre du recrutement à l’ISMAC Business School.
 
 Je m'appelle {{ stage }}, et je suis chargé d'accompagner les candidats tout au long du processus de candidature. Je serai ravi de vous aider dans vos démarches et de répondre à toutes vos questions.
 
-Afin de mieux cibler vos attentes, pourriez-vous m’indiquer les informations que vous recherchez précisément ?
+La date limite est fixée pour fin juin.
 
 Si vous le souhaitez, nous pouvons organiser un échange pour discuter plus en détail de votre profil, de vos objectifs ainsi que des prochaines étapes à envisager.
 
 N'hésitez pas à me communiquer vos disponibilités pour fixer un rendez-vous.
 
 Dans l'attente de votre retour, je reste à votre disposition.
+
+---
+
+---
+ISMAC Admission TEAM  
+11 rue Guyton de Morveau 75013 Paris  
+Tél : 09 81 95 93 72

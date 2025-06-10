@@ -1,0 +1,18 @@
+Subject: Discussion About Your Project – ISMAC Business School
+
+Dear {{ prenom }} {{ nom }},
+
+I am reaching out to you as part of the admissions process at ISMAC Business School. My name is Chhaju, and I am in charge of assisting candidates throughout their application journey.
+ 
+I would be delighted to support you in this process and answer any questions you may have.
+ 
+You first need to apply to the program via this link, the documents needed will be listed there : https://form.jotform.com/241621991749062
+Then you will pass an online interview that will determine your admission to ISMAC. If everything is ok, you will register after this step.
+ 
+If you prefer, we can also arrange a meeting to discuss your profile, goals, and the possible next steps in more detail.
+ 
+---
+
+ISMAC Admission Team  
+11 rue Guyton de Morveau 75013 Paris  
+Tél : 09 81 95 93 72
