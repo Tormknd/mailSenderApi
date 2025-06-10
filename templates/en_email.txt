@@ -1,0 +1,13 @@
+Subject: Discussion About Your Project – ISMAC Business School
+
+Dear {{ "Ms." if genre == "f" else "Mr." }} {{ prenom }} {{ nom }},
+
+I am reaching out to you as part of the admissions process at ISMAC Business School. My name is {{ stage }}, and I am in charge of assisting candidates throughout their application journey.
+
+I would be delighted to support you in this process and answer any questions you may have.
+
+To better understand your expectations, could you please let me know what specific information you are looking for?
+
+If you prefer, we can also arrange a meeting to discuss your profile, goals, and the possible next steps in more detail.
+
+Please feel free to share your availability, {{ "Ms." if genre == "f" else "Mr." }} {{ prenom }} {{ nom }}.
