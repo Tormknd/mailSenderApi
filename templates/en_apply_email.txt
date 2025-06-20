@@ -2,7 +2,7 @@ Subject: Discussion About Your Project – ISMAC Business School
 
 Dear {{ prenom }} {{ nom }},
 
-I am reaching out to you as part of the admissions process at ISMAC Business School. My name is Chhaju, and I am in charge of assisting candidates throughout their application journey.
+I am reaching out to you as part of the admissions process at ISMAC Business School. My name is {{ stage }}, and I am in charge of assisting candidates throughout their application journey.
  
 I would be delighted to support you in this process and answer any questions you may have.
  
